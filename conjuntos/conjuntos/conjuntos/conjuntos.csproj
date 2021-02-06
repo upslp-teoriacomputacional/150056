@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{48A95A02-2C82-487D-85D6-715B2A33D9AF}</ProjectGuid>
+    <ProjectGuid>{B60B27EF-2764-4BB0-9220-001EA25153F2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>conjuntos</RootNamespace>
     <AssemblyName>conjuntos</AssemblyName>

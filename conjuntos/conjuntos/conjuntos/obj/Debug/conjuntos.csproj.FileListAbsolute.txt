@@ -1,0 +1,7 @@
+E:\11voSemestre\TeoríaComputacional\150056\conjuntos\conjuntos\conjuntos\bin\Debug\conjuntos.exe.config
+E:\11voSemestre\TeoríaComputacional\150056\conjuntos\conjuntos\conjuntos\bin\Debug\conjuntos.exe
+E:\11voSemestre\TeoríaComputacional\150056\conjuntos\conjuntos\conjuntos\bin\Debug\conjuntos.pdb
+E:\11voSemestre\TeoríaComputacional\150056\conjuntos\conjuntos\conjuntos\obj\Debug\conjuntos.csprojAssemblyReference.cache
+E:\11voSemestre\TeoríaComputacional\150056\conjuntos\conjuntos\conjuntos\obj\Debug\conjuntos.csproj.CoreCompileInputs.cache
+E:\11voSemestre\TeoríaComputacional\150056\conjuntos\conjuntos\conjuntos\obj\Debug\conjuntos.exe
+E:\11voSemestre\TeoríaComputacional\150056\conjuntos\conjuntos\conjuntos\obj\Debug\conjuntos.pdb
