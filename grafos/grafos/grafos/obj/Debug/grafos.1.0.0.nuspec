@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>grafos</id>
+    <version>1.0.0</version>
+    <authors>grafos</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\11voSemestre\TeoríaComputacional\150056\grafos\grafos\grafos\bin\Debug\netcoreapp3.1\grafos.runtimeconfig.json" target="lib\netcoreapp3.1\grafos.runtimeconfig.json" />
+    <file src="E:\11voSemestre\TeoríaComputacional\150056\grafos\grafos\grafos\bin\Debug\netcoreapp3.1\grafos.dll" target="lib\netcoreapp3.1\grafos.dll" />
+  </files>
+</package>

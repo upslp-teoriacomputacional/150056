@@ -1,0 +1,13 @@
+E:\11voSemestre\TeoríaComputacional\150056\grafos\grafos\grafos\bin\Debug\netcoreapp3.1\grafos.exe
+E:\11voSemestre\TeoríaComputacional\150056\grafos\grafos\grafos\bin\Debug\netcoreapp3.1\grafos.deps.json
+E:\11voSemestre\TeoríaComputacional\150056\grafos\grafos\grafos\bin\Debug\netcoreapp3.1\grafos.runtimeconfig.json
+E:\11voSemestre\TeoríaComputacional\150056\grafos\grafos\grafos\bin\Debug\netcoreapp3.1\grafos.runtimeconfig.dev.json
+E:\11voSemestre\TeoríaComputacional\150056\grafos\grafos\grafos\bin\Debug\netcoreapp3.1\grafos.dll
+E:\11voSemestre\TeoríaComputacional\150056\grafos\grafos\grafos\bin\Debug\netcoreapp3.1\grafos.pdb
+E:\11voSemestre\TeoríaComputacional\150056\grafos\grafos\grafos\obj\Debug\netcoreapp3.1\grafos.csprojAssemblyReference.cache
+E:\11voSemestre\TeoríaComputacional\150056\grafos\grafos\grafos\obj\Debug\netcoreapp3.1\grafos.AssemblyInfoInputs.cache
+E:\11voSemestre\TeoríaComputacional\150056\grafos\grafos\grafos\obj\Debug\netcoreapp3.1\grafos.AssemblyInfo.cs
+E:\11voSemestre\TeoríaComputacional\150056\grafos\grafos\grafos\obj\Debug\netcoreapp3.1\grafos.csproj.CoreCompileInputs.cache
+E:\11voSemestre\TeoríaComputacional\150056\grafos\grafos\grafos\obj\Debug\netcoreapp3.1\grafos.dll
+E:\11voSemestre\TeoríaComputacional\150056\grafos\grafos\grafos\obj\Debug\netcoreapp3.1\grafos.pdb
+E:\11voSemestre\TeoríaComputacional\150056\grafos\grafos\grafos\obj\Debug\netcoreapp3.1\grafos.genruntimeconfig.cache
