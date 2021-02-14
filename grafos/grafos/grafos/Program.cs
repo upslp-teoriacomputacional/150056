@@ -16,34 +16,27 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace grafos {
-    //Se utiliza matriz de adyacencia para definición de grafo
-    class CGrafo {
-        int[,] mAdyacencia;
-        int[] indegree;
-        int nodos;
-
-        public CGrafo(int pNodos) {
-            nodos = pNodos;
-
-            //Instanciar matriz de adyacencia
-            mAdyacencia = new int[nodos, nodos];
-
-            //Instanciar arrelo indegree
-            indegree = new int[nodos];
-        }
-
-        public void AdicionaArista(int pNodoInicio, int pNodoFinal) {
-            mAdyacencia[pNodoInicio, pNodoFinal] = 1;
-        }
-    }
-
     class Program {
         static void Main(string[] args) {
             int nodo = 0;
+            //Definición de grafo de 5 nodos
+            CGrafo miGrafo = new CGrafo(5);
 
-            CGrafo miGrafo = new CGrafo(10);
-
+            //declaración del grafo cómo diccionario
             miGrafo.AdicionaArista('a', 'c');
+            miGrafo.AdicionaArista('b', 'c');
+            miGrafo.AdicionaArista('b', 'e');
+            miGrafo.AdicionaArista('c', 'd');
+            miGrafo.AdicionaArista('c', 'e');
+            miGrafo.AdicionaArista('c', 'a');
+            miGrafo.AdicionaArista('c', 'b');
+            miGrafo.AdicionaArista('e', 'b');
+            miGrafo.AdicionaArista('d', 'c');
+            miGrafo.AdicionaArista('e', 'c');
+
+            //Cambiar color de letra
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine("Impresión Grafo");
         }
     }
 }
