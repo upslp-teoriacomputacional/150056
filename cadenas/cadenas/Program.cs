@@ -1,10 +1,12 @@
 ﻿/*****************************************************************************************
                         Universidad Politecnica de San Luis Potosí
                         Ingeniería en Tecnologías de la Información
+
                         Materia:    Teoría Computacional
                         Profesor:   Juan Carlos González Ibarra
                         Nombre:     Guevara Silva Isaí Abimael
                         Matricula:  150056
+
                C# program that validate chars to alphabet {a-z} and digits {0-9}
 *****************************************************************************************/
 using System;
@@ -14,7 +16,7 @@ namespace cadenas {
     class Program {
         static void Main(string[] args) {
             ConsoleKeyInfo cki;
-
+            //Comienza ciclo para pedir caracteres
             do {
                 //Limpia la consola
                 Console.Clear();
