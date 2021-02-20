@@ -1,0 +1,13 @@
+E:\11voSemestre\TeoríaComputacional\150056\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.exe
+E:\11voSemestre\TeoríaComputacional\150056\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.deps.json
+E:\11voSemestre\TeoríaComputacional\150056\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.runtimeconfig.json
+E:\11voSemestre\TeoríaComputacional\150056\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.runtimeconfig.dev.json
+E:\11voSemestre\TeoríaComputacional\150056\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.dll
+E:\11voSemestre\TeoríaComputacional\150056\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.pdb
+E:\11voSemestre\TeoríaComputacional\150056\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.csprojAssemblyReference.cache
+E:\11voSemestre\TeoríaComputacional\150056\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.AssemblyInfoInputs.cache
+E:\11voSemestre\TeoríaComputacional\150056\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.AssemblyInfo.cs
+E:\11voSemestre\TeoríaComputacional\150056\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.csproj.CoreCompileInputs.cache
+E:\11voSemestre\TeoríaComputacional\150056\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.dll
+E:\11voSemestre\TeoríaComputacional\150056\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.pdb
+E:\11voSemestre\TeoríaComputacional\150056\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.genruntimeconfig.cache
