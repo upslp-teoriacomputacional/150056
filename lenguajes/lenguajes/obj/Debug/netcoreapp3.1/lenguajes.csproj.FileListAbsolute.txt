@@ -1,0 +1,13 @@
+E:\11voSemestre\TeoríaComputacional\150056\lenguajes\lenguajes\obj\Debug\netcoreapp3.1\lenguajes.csprojAssemblyReference.cache
+E:\11voSemestre\TeoríaComputacional\150056\lenguajes\lenguajes\obj\Debug\netcoreapp3.1\lenguajes.AssemblyInfoInputs.cache
+E:\11voSemestre\TeoríaComputacional\150056\lenguajes\lenguajes\obj\Debug\netcoreapp3.1\lenguajes.AssemblyInfo.cs
+E:\11voSemestre\TeoríaComputacional\150056\lenguajes\lenguajes\obj\Debug\netcoreapp3.1\lenguajes.csproj.CoreCompileInputs.cache
+E:\11voSemestre\TeoríaComputacional\150056\lenguajes\lenguajes\bin\Debug\netcoreapp3.1\lenguajes.exe
+E:\11voSemestre\TeoríaComputacional\150056\lenguajes\lenguajes\bin\Debug\netcoreapp3.1\lenguajes.deps.json
+E:\11voSemestre\TeoríaComputacional\150056\lenguajes\lenguajes\bin\Debug\netcoreapp3.1\lenguajes.runtimeconfig.json
+E:\11voSemestre\TeoríaComputacional\150056\lenguajes\lenguajes\bin\Debug\netcoreapp3.1\lenguajes.runtimeconfig.dev.json
+E:\11voSemestre\TeoríaComputacional\150056\lenguajes\lenguajes\bin\Debug\netcoreapp3.1\lenguajes.dll
+E:\11voSemestre\TeoríaComputacional\150056\lenguajes\lenguajes\bin\Debug\netcoreapp3.1\lenguajes.pdb
+E:\11voSemestre\TeoríaComputacional\150056\lenguajes\lenguajes\obj\Debug\netcoreapp3.1\lenguajes.dll
+E:\11voSemestre\TeoríaComputacional\150056\lenguajes\lenguajes\obj\Debug\netcoreapp3.1\lenguajes.pdb
+E:\11voSemestre\TeoríaComputacional\150056\lenguajes\lenguajes\obj\Debug\netcoreapp3.1\lenguajes.genruntimeconfig.cache
